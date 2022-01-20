@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BertrandConxy
+- 👋 Hi, I’m @BertrandMutangana
 - 👀 I’m interested in pair programming, UI/UX designing and front-end development
 - 🌱 I’m currently learning both front-end and back-end most popular technologies at Microverse @Microversse.
 - 💞️ I’m looking to collaborate on various portfolio projects
